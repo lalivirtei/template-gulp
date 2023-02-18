@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+@import "node_modules/normalize.css/normalize";
+@import "blocks/logo";
+@import "blocks/portfolio-item";
+
+:root {
+  --dark-900: #35363a;
+}
+
+body {
+  background: var(--dark-900);
+  color: #fff;
+  font-size: 16px;
+}
