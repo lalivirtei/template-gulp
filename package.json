@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lalivirtei/lalivirtei.github.io#readme",
   "dependencies": {
+    "@fancyapps/ui": "^5.0.15",
     "autoprefixer": "^10.4.13",
     "cssnano": "^5.1.14",
     "gulp": "^4.0.2",
